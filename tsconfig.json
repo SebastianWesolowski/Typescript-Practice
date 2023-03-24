@@ -6,6 +6,9 @@
     /* Modules */
     "module": "commonjs",                                /* Specify what module code is generated. */
 
+    /* Emit */
+    "outDir": "./out",                                   /* Specify an output folder for all emitted files. */
+
     /* Type Checking */
     "strict": true,                                      /* Enable all strict type-checking options. */
   }
