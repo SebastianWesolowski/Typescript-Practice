@@ -8,7 +8,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-console.log('Start code here 2');
+console.log('Start code here');
 const tags = ['a', 'b', 'c'];
 // @ts-ignore
 function check() {
